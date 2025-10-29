@@ -1,5 +1,6 @@
 {
   "model": "VGUANG-M350-PoE",
+  "available": false,
   "category": "QR Reader",
   "manufacturer": "vguang",
   "pictures": [
