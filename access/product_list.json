@@ -1,0 +1,11 @@
+{
+  "model": "VGUANG-M350-PoE",
+  "category": "QR Reader",
+  "manufacturer": "vguang",
+  "pictures": [
+    "https://product.api.stayforge.io/access/picture/m350/VGUANG-M350-1.jpg"
+  ],
+  "release_date": "2024-10-10T00:00:00Z",
+  "features": ["reader", "nfc"],
+  "setup": "vguang"
+}
